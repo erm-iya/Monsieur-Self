@@ -1,0 +1,32 @@
+{
+  "timename": "off",
+  "timebio": "off",
+  "timeprofile": "off",
+  "timecrush": "off",
+  "bot": "on",
+  "hashtag": "off",
+  "bold": "off",
+  "italic": "off",
+  "delete": "off",
+  "code": "off",
+  "underline": "off",
+  "reverse": "off",
+  "part": "off",
+  "mention": "off",
+  "spoiler": "off",
+  "comment": "on",
+  "text": "first !",
+  "typing": "off",
+  "game": "off",
+  "voice": "off",
+  "video": "off",
+  "sticker": "off",
+  "crush": [],
+  "enemy": [],
+  "afk": {
+    "status": "off",
+    "reason": "I'm currently away.",
+    "time": 0.0
+  },
+  "notes": {}
+}
