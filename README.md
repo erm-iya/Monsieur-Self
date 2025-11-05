@@ -33,7 +33,7 @@ You will need several API keys and IDs to set up this bot.
 
 1.  **Fork & Clone**: First, fork this repository and then clone it to your server or local machine.
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/monsieur-self.git](https://github.com/YOUR_USERNAME/monsieur-self.git)
+    git clone [https://github.com/erm-iya/monsieur-self.git](https://github.com/YOUR_USERNAME/monsieur-self.git)
     cd monsieur-self
     ```
 
