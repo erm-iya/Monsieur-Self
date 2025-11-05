@@ -80,11 +80,11 @@ You will need several API keys and IDs to set up this bot.
 
 ## 📦 2. Installation
 
-1.  **Install Python & Git**: Make sure you have `python3` and `git` installed on your system.
+1.  **Install Python & Git**: Make sure you have `python` and `git` installed on your system.
 
 2.  **Create a Virtual Environment** (Recommended):
     ```bash
-    python3 -m venv venv
+    python -m venv venv
     source venv/bin/activate
     ```
 
@@ -103,7 +103,7 @@ This Flask app must be running and accessible via a public URL for Telegram to s
 
 1.  **Run the helper app**:
     ```bash
-    python3 helper.py
+    python helper.py
     ```
     By default, this runs on port 80. You may need to use `sudo` or configure a reverse proxy (like Nginx) to run on this port.
 
@@ -119,7 +119,7 @@ This Flask app must be running and accessible via a public URL for Telegram to s
 
 1.  **Run the main bot**:
     ```bash
-    python3 self.py
+    python self.py
     ```
 
 2.  **First-Time Login**:
