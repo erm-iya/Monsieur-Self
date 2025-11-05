@@ -1,0 +1,14 @@
+telethon
+psutil
+py-tgcalls
+aiohttp
+aiofiles
+aiocron
+flask
+pytz
+googletrans-py
+gtts
+google_play_scraper
+numpy
+matplotlib
+google-generativeai
